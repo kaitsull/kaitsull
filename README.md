@@ -13,7 +13,7 @@
 - [R Package for mFISH](https://github.com/kaitsull/RUHi), including Shiny App for easy clustering and dimensionality reduction
 
 **scRNA-seq Tools**
-- [Automated web search for antibodies]() based on scRNA-seq marker genes (currently for human brain tissue)  
+- [Automated web search for antibodies](https://github.com/kaitsull/proteinsearch) based on scRNA-seq marker genes (currently for human brain tissue)  
 
 
 ### Currently Learning & Creating...
