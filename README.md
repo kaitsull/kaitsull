@@ -22,6 +22,6 @@
 🌱  Shiny App for mFISH Analysis  
 
 ### Collaborate
- 💞️  Always open to collaborating on 
+ 💞️  Always open to collaborating on work automating and quantifying histology, as well as the analysis of transcriptomic data.    
  💞️  I’m also looking to collaborate on projects that are looking to traverse the science-art rift
 
