@@ -1,15 +1,15 @@
 # Kaitlin Sullivan
-👋 Hi, I’m @kaitsull! I am a neuroscience PhD candidate in the [Cembrowski Lab](https://www.cembrowskilab.com/) at the University of British Columbia.    
+👋 Hi, I’m @kaitsull! I completed my PhD in Neuroscience in the [Cembrowski Lab](https://www.cembrowskilab.com/) at the University of British Columbia. I am super excited to be starting my Postdoc in the [Pena Lab](https://penalab.org/people) at Princeton University in the near future!    
 
 
 ### Interests
-:microscope:   My PhD work investigates the neural mechanisms underlying fear memory.    
+:microscope:   How stress alters the nervous system at the cellular and molecular levels.      
 :art: I am also highly interested in exploring the intersection of art and science through digital mediums.     
 
 
 ### My Repos
 **mFISH Analysis**  
-- [Fiji (ImageJ) Menu Item for mFISH]() registration, segmentation, quantification
+- [Fiji (ImageJ) Menu Item for mFISH](https://github.com/kaitsull/FijiFISH) registration, segmentation, quantification
 - [R Package for mFISH](https://github.com/kaitsull/RUHi), including Shiny App for easy clustering and dimensionality reduction
 
 **scRNA-seq Tools**
