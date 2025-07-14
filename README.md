@@ -11,6 +11,7 @@
 **mFISH Analysis**  
 - [Fiji (ImageJ) Menu Item for mFISH](https://github.com/kaitsull/FijiFISH) registration, segmentation, quantification
 - [R Package for mFISH](https://github.com/kaitsull/RUHi), including Shiny App for easy clustering and dimensionality reduction
+- [Tutorial Hub for mFISH Analysis Tools](https://kaitsull.github.io/VideoTutorials/) with comprehensive video tutorials
 
 **Single Cell Omics Tools**
 - [Automated web search for antibodies](https://github.com/kaitsull/proteinsearch) based on scRNA-seq marker genes (currently for human brain tissue)  
